@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+.env
+.vscode
+nohup.out
+docker-compose.yml
+docker-compose.yml.*
+www/*
+!www/localhost/
+logs/*
+services/nginx/conf.d/*
