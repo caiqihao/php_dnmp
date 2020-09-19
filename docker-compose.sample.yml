@@ -34,8 +34,10 @@ services:
         PHP_EXTENSIONS: ${PHP_EXTENSIONS}
         TZ: "$TZ"
     container_name: php
-    expose:
-      - 9501
+    ports:
+      - "${PHP_HYPERF1_PORT}:9501"
+      - "${PHP_HYPERF2_PORT}:9502"
+      - "${PHP_HYPERF3_PORT}:9503"
     extra_hosts:
       - "www.site1.com:172.17.0.1"
     volumes:
@@ -50,6 +52,34 @@ services:
     networks:
       - default
 
+  php73:
+    build:
+      context: ./services/php
+      args:
+        PHP_VERSION: php:${PHP73_VERSION}-fpm-alpine
+        CONTAINER_PACKAGE_URL: ${CONTAINER_PACKAGE_URL}
+        PHP_EXTENSIONS: ${PHP56_EXTENSIONS}
+        TZ: "$TZ"
+    container_name: php73
+    ports:
+      - "${PHP_SWOOLE1_PORT}:9504"
+      - "${PHP_SWOOLE2_PORT}:9505"
+      - "${PHP_SWOOLE3_PORT}:9506"
+      - "${PHP_SWOOLE4_PORT}:9507"
+      - "${PHP_SWOOLE5_PORT}:9508"
+      - "${PHP_SWOOLE6_PORT}:9509"
+
+    volumes:
+      - ${SOURCE_DIR}:/www/:rw
+      - ${PHP73_PHP_CONF_FILE}:/usr/local/etc/php/php.ini:ro
+      - ${PHP73_FPM_CONF_FILE}:/usr/local/etc/php-fpm.d/www.conf:rw
+      - ${PHP73_LOG_DIR}:/var/log/php
+      - ${DATA_DIR}/composer:/tmp/composer
+    restart: always
+    cap_add:
+      - SYS_PTRACE
+    networks:
+      - default
 #  php56:
 #    build:
 #      context: ./services/php
