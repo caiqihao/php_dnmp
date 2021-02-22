@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>码力全开 - 独立开发者的聚集地</title>
+  
+  <subtitle>码力全开科技工作室</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://maliquankai.com/"/>
+  <updated>2020-12-13T16:22:54.744Z</updated>
+  <id>http://maliquankai.com/</id>
+  
+  <author>
+    <name>Larry</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>屏幕录像机和头像设计工具</title>
+    <link href="http://maliquankai.com/2020/12/02/2020-12-02-pfpmaker/"/>
+    <id>http://maliquankai.com/2020/12/02/2020-12-02-pfpmaker/</id>
+    <published>2020-12-02T15:22:01.000Z</published>
+    <updated>2020-12-13T16:22:54.744Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，推荐一个可以生成数十种专业的头像设计工具PFPMaker，只需要上传一张你的照片，通过AI技术自动去除背景，美化你的照片并自动生成数十个个人资料图片，生成的图片可以编辑颜色、阴影等设置。</p></blockquote><h3 id="PFPMaker"><a href="#PFPMaker" class="headerlink" title="PFPMaker"></a><a href="https://pfpmaker.com" target="_blank" rel="noopener">PFPMaker</a></h3><p>网址：<a href="https://pfpmaker.com" target="_blank" rel="noopener">https://pfpmaker.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%83%8F%E6%9C%BA%E5%92%8C%E5%A4%B4%E5%83%8F%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7/1.jpg" alt=""></p><p>打开网站，可以看到大标题上传一张你的照片做一个出色的个人资料图片，你上传的照片通过AI技术处理后会自动删除。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%83%8F%E6%9C%BA%E5%92%8C%E5%A4%B4%E5%83%8F%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7/2.png" alt=""></p><p><strong>PFPMaker通过AI技术背景去除，数秒之内即可获得数十种出色的头像设计</strong>，这些头像可以用在在社交媒体上获得更多人的喜爱。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%83%8F%E6%9C%BA%E5%92%8C%E5%A4%B4%E5%83%8F%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7/3.jpg" alt=""></p><p><strong>PFPMaker支持上传5M以内的JPG、PNG格式的图片</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%83%8F%E6%9C%BA%E5%92%8C%E5%A4%B4%E5%83%8F%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7/4.jpg" alt=""></p><p><strong>PFPMaker使用AI技术识别并自动删除任何复杂的背景</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%83%8F%E6%9C%BA%E5%92%8C%E5%A4%B4%E5%83%8F%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7/5.jpg" alt=""></p><p>立即获得数十个完美的专业头像照片，<strong>生成的图片可以编辑颜色、阴影等设置</strong>。</p><h3 id="Screenity"><a href="#Screenity" class="headerlink" title="Screenity"></a><a href="https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji" target="_blank" rel="noopener">Screenity</a></h3><p>网址：<a href="https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji" target="_blank" rel="noopener">https://chrome.google.com/webstore/detail/screenity-screen-recorder/kbbdabhdfibnancpjfhlkhafgdilcnji</a></p><p><strong>Screenity是一款适用于Chrome的屏幕录像机和注释工具</strong>，它是一个完全免费的开源工具，可以更好的捕获、注释、编辑屏幕。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%83%8F%E6%9C%BA%E5%92%8C%E5%A4%B4%E5%83%8F%E8%AE%BE%E8%AE%A1%E5%B7%A5%E5%85%B7/6.jpg" alt=""></p><p>开源地址：<a href="https://github.com/alyssaxuu/screenity" target="_blank" rel="noopener">https://github.com/alyssaxuu/screenity</a></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，推荐一个可以生成数十种专业的头像设计工具PFPMaker，只需要上传一张你的照片，通过AI技术自动去除背景，美化你的照片并自动生成数十个个人资料图片，生成的图片可以编辑颜色、阴影等设置。&lt;/p&gt;
+&lt;/blockqu
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推荐一个多头像生成器</title>
+    <link href="http://maliquankai.com/2020/11/25/2020-11-25-multiavatar/"/>
+    <id>http://maliquankai.com/2020/11/25/2020-11-25-multiavatar/</id>
+    <published>2020-11-25T15:22:01.000Z</published>
+    <updated>2020-12-13T15:53:28.658Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，推荐一个多头像生成器Multiavatar，它是一个免费的开源项目，代表来自多种种族、文化以及世界上各行各业的人，可以生成超多的头像，支持SVG格式。</p></blockquote><h3 id="Multiavatar"><a href="#Multiavatar" class="headerlink" title="Multiavatar"></a><a href="https://github.com/multiavatar/Multiavatar" target="_blank" rel="noopener">Multiavatar</a></h3><p>网址：<a href="https://github.com/multiavatar/Multiavatar" target="_blank" rel="noopener">https://github.com/multiavatar/Multiavatar</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%A4%B4%E5%83%8F%E7%94%9F%E6%88%90%E5%99%A8/1.jpeg" alt=""></p><p>打开网站，可以看到<strong>Multiavatar代表来自多种种族、多种文化、多种年龄段、多种世界观和各行各业的人们，共可以生成12,230,590,464个头像</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%A4%B4%E5%83%8F%E7%94%9F%E6%88%90%E5%99%A8/2.jpeg" alt=""></p><p><strong>你可以免费使用Multiavatar</strong>，只要遵循许可中所述的条件即可。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%A4%B4%E5%83%8F%E7%94%9F%E6%88%90%E5%99%A8/3.jpeg" alt=""></p><p>你可以使用npm进行安装Multiavatar，然后返回SVG代码，也可以使用js脚本引入Multiavatar。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A4%9A%E5%A4%B4%E5%83%8F%E7%94%9F%E6%88%90%E5%99%A8/5.jpeg" alt=""></p><p>此<strong>算法可以生成120亿个头像</strong>，这些造型迥异的设计以及头像的多元文化也为我们提供了更方便的创意。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，推荐一个多头像生成器Multiavatar，它是一个免费的开源项目，代表来自多种种族、文化以及世界上各行各业的人，可以生成超多的头像，支持SVG格式。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Multi
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>懒猫存钱-预算小组件和自动记账</title>
+    <link href="http://maliquankai.com/2020/11/18/2020-11-18-lazycat-savemoney1.7.1/"/>
+    <id>http://maliquankai.com/2020/11/18/2020-11-18-lazycat-savemoney1.7.1/</id>
+    <published>2020-11-18T15:22:01.000Z</published>
+    <updated>2020-11-18T13:11:25.251Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，懒猫存钱V1.7.0重要更新，主要更新了预算小组件和自动记账功能。</p></blockquote><p><strong>懒猫存钱上线后获得了苹果新鲜应用、喵帮手、生活解决方案等专题推荐</strong>，感兴趣的朋友AppStore搜索 <strong>懒猫存钱</strong> 即可下载体验。</p><h4 id="懒猫存钱近期更新的主要Features："><a href="#懒猫存钱近期更新的主要Features：" class="headerlink" title="懒猫存钱近期更新的主要Features："></a>懒猫存钱近期更新的主要Features：</h4><p><strong>1.</strong> <strong>账本预算小组件</strong> - iOS 14可以添加账本预算的桌面小组件，支持编辑功能，按需选择按月/按年/全部预算</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1-%E9%A2%84%E7%AE%97%E5%B0%8F%E7%BB%84%E4%BB%B6%E5%92%8C%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/%E9%A2%84%E7%AE%97%E5%B0%8F%E7%BB%84%E4%BB%B6.png" alt=""></p><p><strong>2.</strong> <strong>自动记账</strong> - 你可以添加固定的收入和支出，在固定的时间会自动记账</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1-%E9%A2%84%E7%AE%97%E5%B0%8F%E7%BB%84%E4%BB%B6%E5%92%8C%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/%E5%9B%BA%E5%AE%9A%E6%94%B6%E6%94%AF.png" alt=""></p><p><strong>3.</strong> <strong>资产管理</strong> - 资产账户可以切换为分组或列表模式，查看资金账户、信用账户、虚拟账户更直观</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1-%E9%A2%84%E7%AE%97%E5%B0%8F%E7%BB%84%E4%BB%B6%E5%92%8C%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/%E8%B5%84%E4%BA%A7%E8%B4%A6%E6%88%B7.png" alt=""><br><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1-%E9%A2%84%E7%AE%97%E5%B0%8F%E7%BB%84%E4%BB%B6%E5%92%8C%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/%E8%B5%84%E4%BA%A7%E5%88%86%E7%BB%84.png" alt=""></p><p><strong>4.</strong> <strong>信用账户</strong> - 信用账户可以设置额度和欠款，详情页新增还款功能</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1-%E9%A2%84%E7%AE%97%E5%B0%8F%E7%BB%84%E4%BB%B6%E5%92%8C%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/%E4%BF%A1%E7%94%A8%E8%B4%A6%E6%88%B7.png" alt=""></p><p><strong>5.</strong> <strong>账本预算</strong> - 账本详情页支持查看预算的实时进度</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1-%E9%A2%84%E7%AE%97%E5%B0%8F%E7%BB%84%E4%BB%B6%E5%92%8C%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/%E8%B4%A6%E6%9C%AC%E9%A2%84%E7%AE%97.png" alt=""></p><p><strong>6.</strong> <strong>借入和借出</strong> - 借出/借入债务管理（资产账户可以添加借入、借出）</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1-%E9%A2%84%E7%AE%97%E5%B0%8F%E7%BB%84%E4%BB%B6%E5%92%8C%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/%E5%80%9F%E5%85%A5%E5%80%9F%E5%87%BA.png" alt=""><br><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1-%E9%A2%84%E7%AE%97%E5%B0%8F%E7%BB%84%E4%BB%B6%E5%92%8C%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/%E5%80%9F%E5%85%A5%E5%8F%8A%E8%BF%98%E6%AC%BE%E6%B5%81%E7%A8%8B.png" alt=""></p><p><strong>7.</strong> <strong>智能备注</strong> - 记账支持添加常用备注（写过的备注会自动存储方便下次快速选择）</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1-%E9%A2%84%E7%AE%97%E5%B0%8F%E7%BB%84%E4%BB%B6%E5%92%8C%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/%E8%AE%B0%E8%B4%A6%E5%A4%87%E6%B3%A8%E6%A0%87%E7%AD%BE.png" alt=""></p><p><strong>8.</strong> <strong>任意存钱计划</strong> - 支持自定义起始和结束日期，可以按天、按周、按月的自定义存钱</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1-%E9%A2%84%E7%AE%97%E5%B0%8F%E7%BB%84%E4%BB%B6%E5%92%8C%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/%E4%BB%BB%E6%84%8F%E5%AD%98%E9%92%B1%E8%AE%A1%E5%88%92.png" alt=""></p><p><strong>9.</strong> <strong>存钱可以选择资产账户</strong> - 支持选择资产账户中的扣款和存款账户</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1-%E9%A2%84%E7%AE%97%E5%B0%8F%E7%BB%84%E4%BB%B6%E5%92%8C%E8%87%AA%E5%8A%A8%E8%AE%B0%E8%B4%A6/%E5%AD%98-%E6%89%A3%E6%AC%BE%E8%B4%A6%E6%88%B7.png" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，懒猫存钱V1.7.0重要更新，主要更新了预算小组件和自动记账功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;懒猫存钱上线后获得了苹果新鲜应用、喵帮手、生活解决方案等专题推荐&lt;/strong&gt;，感兴
+      
+    
+    </summary>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>手工制作个性十足的高质量3D插画</title>
+    <link href="http://maliquankai.com/2020/11/11/2020-11-11-3d-illustraions/"/>
+    <id>http://maliquankai.com/2020/11/11/2020-11-11-3d-illustraions/</id>
+    <published>2020-11-11T15:22:01.000Z</published>
+    <updated>2020-11-10T17:27:56.868Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，推荐一组手工制作个性十足的高质量3D插画，支持Figma格式，可以导出PNG、SVG、JPG、PDF。</p></blockquote><h3 id="3D-Illustration"><a href="#3D-Illustration" class="headerlink" title="3D-Illustration"></a><a href="https://www.figma.com/community/file/890095002328610853/SALY---3D-Illustration-Pack" target="_blank" rel="noopener">3D-Illustration</a></h3><p>网址：<a href="https://www.figma.com/community/file/890095002328610853/SALY---3D-Illustration-Pack" target="_blank" rel="noopener">https://www.figma.com/community/file/890095002328610853/SALY—3D-Illustration-Pack</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%89%8B%E5%B7%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E6%80%A7%E5%8D%81%E8%B6%B3%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F3D%E6%8F%92%E7%94%BB/0.png" alt=""></p><p>打开网站，进入插画设计素材页面，在这里可以看到<strong>21个高质量的插画素材（目前还在更新中），每个插画的质量都很高</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%89%8B%E5%B7%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E6%80%A7%E5%8D%81%E8%B6%B3%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F3D%E6%8F%92%E7%94%BB/01.jpg" alt=""></p><p>打开任意一个插画素材，可以调整<strong>超多的参数以及可以导出PNG、SVG、JPG、PDF格式</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%89%8B%E5%B7%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E6%80%A7%E5%8D%81%E8%B6%B3%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F3D%E6%8F%92%E7%94%BB/1.jpg" alt=""></p><p>接下来展示部分插画素材的效果，<strong>这些高质量的插画可以免费用于个人项目中</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%89%8B%E5%B7%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E6%80%A7%E5%8D%81%E8%B6%B3%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F3D%E6%8F%92%E7%94%BB/2.jpg" alt=""><br><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%89%8B%E5%B7%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E6%80%A7%E5%8D%81%E8%B6%B3%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F3D%E6%8F%92%E7%94%BB/3.jpg" alt=""><br><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%89%8B%E5%B7%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E6%80%A7%E5%8D%81%E8%B6%B3%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F3D%E6%8F%92%E7%94%BB/4.jpg" alt=""><br><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%89%8B%E5%B7%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E6%80%A7%E5%8D%81%E8%B6%B3%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F3D%E6%8F%92%E7%94%BB/5.jpg" alt=""><br><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%89%8B%E5%B7%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E6%80%A7%E5%8D%81%E8%B6%B3%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F3D%E6%8F%92%E7%94%BB/6.jpg" alt=""><br><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%89%8B%E5%B7%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E6%80%A7%E5%8D%81%E8%B6%B3%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F3D%E6%8F%92%E7%94%BB/7.jpg" alt=""><br><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%89%8B%E5%B7%A5%E5%88%B6%E4%BD%9C%E4%B8%AA%E6%80%A7%E5%8D%81%E8%B6%B3%E7%9A%84%E9%AB%98%E8%B4%A8%E9%87%8F3D%E6%8F%92%E7%94%BB/8.jpg" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，推荐一组手工制作个性十足的高质量3D插画，支持Figma格式，可以导出PNG、SVG、JPG、PDF。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;3D-Illustration&quot;&gt;&lt;a href=&quot;#3D
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="插画素材" scheme="http://maliquankai.com/tags/%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>3000个免费的各种手势库</title>
+    <link href="http://maliquankai.com/2020/10/28/2020-10-28-3000-hands/"/>
+    <id>http://maliquankai.com/2020/10/28/2020-10-28-3000-hands/</id>
+    <published>2020-10-28T15:22:01.000Z</published>
+    <updated>2020-11-08T16:21:17.987Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，推荐一个新发现的免费手势库素材，手势姿势非常丰富，不同角度、不同肤色满足你的需求。</p></blockquote><h3 id="3000-Hands"><a href="#3000-Hands" class="headerlink" title="3000-Hands"></a><a href="https://www.shapefest.com/expansions/3000-hands" target="_blank" rel="noopener">3000-Hands</a></h3><p>网址：<a href="https://www.shapefest.com/expansions/3000-hands" target="_blank" rel="noopener">https://www.shapefest.com/expansions/3000-hands</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/3000%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%9A%84%E5%90%84%E7%A7%8D%E6%89%8B%E5%8A%BF%E5%BA%93/1.jpg" alt=""></p><p>打开网站，可以看到大标题3000个免费的手势库，<strong>它有6个贴图、50个独特的形状、20个相机角度、3000个PNG图片</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/3000%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%9A%84%E5%90%84%E7%A7%8D%E6%89%8B%E5%8A%BF%E5%BA%93/2.jpg" alt=""><br><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/3000%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%9A%84%E5%90%84%E7%A7%8D%E6%89%8B%E5%8A%BF%E5%BA%93/5.jpg" alt=""></p><p>网站上可以看到各种姿势的手势，<strong>不同角度、不同肤色非常丰富</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/3000%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%9A%84%E5%90%84%E7%A7%8D%E6%89%8B%E5%8A%BF%E5%BA%93/3.jpg" alt=""></p><p>它提供了<strong>6种不同肤色的手势</strong>，可以根据自己的需求选择合适的手势肤色。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/3000%E4%B8%AA%E5%85%8D%E8%B4%B9%E7%9A%84%E5%90%84%E7%A7%8D%E6%89%8B%E5%8A%BF%E5%BA%93/4.jpg" alt=""></p><p><strong>包含了10个不同的手势角度</strong>，现在你可以免费获取这些很棒的高级作品。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，推荐一个新发现的免费手势库素材，手势姿势非常丰富，不同角度、不同肤色满足你的需求。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;3000-Hands&quot;&gt;&lt;a href=&quot;#3000-Hands&quot; class
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>懒猫存钱和HomeTime支持iOS 14小组件</title>
+    <link href="http://maliquankai.com/2020/10/12/2020-10-12-myproduct-widget/"/>
+    <id>http://maliquankai.com/2020/10/12/2020-10-12-myproduct-widget/</id>
+    <published>2020-10-12T15:22:01.000Z</published>
+    <updated>2020-10-12T07:16:46.938Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，懒猫存钱V1.5.4重要更新，主要更新了账单图功能。</p></blockquote><p><strong>懒猫存钱上线后获得了苹果新鲜应用、喵帮手专题推荐</strong>，感兴趣的朋友AppStore搜索 <strong>懒猫存钱</strong> 即可下载体验。</p><h4 id="懒猫存钱近期更新的主要Features："><a href="#懒猫存钱近期更新的主要Features：" class="headerlink" title="懒猫存钱近期更新的主要Features："></a>懒猫存钱近期更新的主要Features：</h4><p><strong>1.全新iOS 14 『存钱+记账』多功能小组件</strong>，可以添加存钱计划、账本收支、本月收支、本周统计到主屏幕。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E5%92%8CHomeTime%E5%AE%8C%E7%BE%8E%E9%80%82%E9%85%8DiOS%2014%E5%B0%8F%E7%BB%84%E4%BB%B6/iOS14%E5%B0%8F%E7%BB%84%E4%BB%B6.png" alt=""></p><p><strong>2.存钱、记账封面支持自定义</strong> - 可以上传相册内的照片作为封面。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E5%92%8CHomeTime%E5%AE%8C%E7%BE%8E%E9%80%82%E9%85%8DiOS%2014%E5%B0%8F%E7%BB%84%E4%BB%B6/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B0%81%E9%9D%A2.png" alt=""></p><p><strong>3.底部栏点击中间按钮可以快速转账</strong>，转账支持货币切换和输入手续费。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E5%92%8CHomeTime%E5%AE%8C%E7%BE%8E%E9%80%82%E9%85%8DiOS%2014%E5%B0%8F%E7%BB%84%E4%BB%B6/%E8%BD%AC%E8%B4%A6%2B%E6%89%8B%E7%BB%AD%E8%B4%B9.png" alt=""></p><p><strong>4.账本统计页面点击导航栏标题可以选择起始日期</strong>区间查询记账数据。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E5%92%8CHomeTime%E5%AE%8C%E7%BE%8E%E9%80%82%E9%85%8DiOS%2014%E5%B0%8F%E7%BB%84%E4%BB%B6/%E8%B4%A6%E6%9C%AC%E7%BB%9F%E8%AE%A1%E5%8C%BA%E9%97%B4%E6%9F%A5%E8%AF%A2.png" alt=""></p><p><strong>5.汇率调整</strong> - 设置页可以手动调整汇率。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E5%92%8CHomeTime%E5%AE%8C%E7%BE%8E%E9%80%82%E9%85%8DiOS%2014%E5%B0%8F%E7%BB%84%E4%BB%B6/%E6%B1%87%E7%8E%87%E8%B0%83%E6%95%B4.png" alt=""></p><h4 id="HomeTime近期的主要Features："><a href="#HomeTime近期的主要Features：" class="headerlink" title="HomeTime近期的主要Features："></a>HomeTime近期的主要Features：</h4><p><strong>HomeTime上线后获得了苹果新鲜应用、Today专题推荐</strong> 。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E5%92%8CHomeTime%E5%AE%8C%E7%BE%8E%E9%80%82%E9%85%8DiOS%2014%E5%B0%8F%E7%BB%84%E4%BB%B6/hometime_appstore%E6%8E%A8%E8%8D%90.png" alt=""></p><p><strong>全新iOS 14 小组件</strong>，支持添加亲情事项、倒计日、累计日到主屏幕！</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E5%92%8CHomeTime%E5%AE%8C%E7%BE%8E%E9%80%82%E9%85%8DiOS%2014%E5%B0%8F%E7%BB%84%E4%BB%B6/hometime%E5%B0%8F%E7%BB%84%E4%BB%B6.png" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，懒猫存钱V1.5.4重要更新，主要更新了账单图功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;懒猫存钱上线后获得了苹果新鲜应用、喵帮手专题推荐&lt;/strong&gt;，感兴趣的朋友AppStore搜索 
+      
+    
+    </summary>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推荐两个高质量的3D设计资源</title>
+    <link href="http://maliquankai.com/2020/10/01/2020-10-01-3d-design/"/>
+    <id>http://maliquankai.com/2020/10/01/2020-10-01-3d-design/</id>
+    <published>2020-10-01T15:22:01.000Z</published>
+    <updated>2020-10-12T07:03:59.415Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，推荐近期新发现的两个3D设计资源，分别是时髦的3D角色集和高分辨率的iPhone 3D样机模型，这两个资源可以美化自己的产品，提高生产力。</p></blockquote><h3 id="Humans"><a href="#Humans" class="headerlink" title="Humans"></a><a href="https://wannathis.one/humans" target="_blank" rel="noopener">Humans</a></h3><p>网址：<a href="https://wannathis.one/humans" target="_blank" rel="noopener">https://wannathis.one/humans</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%843D%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/1.jpeg" alt=""></p><p>打开网站，可以看到这里<strong>提供了80个不同的3D角色，易于定制，支持Figma格式</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%843D%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/2.jpeg" alt=""></p><p>这里提供了<strong>20个不同的人物姿势，这些时髦的服装和各种姿势方便自己去定制</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%843D%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/3.jpeg" alt=""></p><p>在Figma中你可以<strong>一键更改这些3D角色的颜色</strong>，让角色形象与众不同。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%843D%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/4.jpeg" alt=""></p><p><strong>提供了4种不同的服装</strong>，可用于任何场合，比如：运动、商业、生活方式、休闲装。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%843D%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/5.jpeg" alt=""></p><p>同样，你还可以创建自己的头像并根据需要进行样式化，<strong>比如：胡子、太阳镜、面具发型，任你选！</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%843D%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/6.jpeg" alt=""></p><p>这些3D角色人物可以<strong>用在移动端或Web端产品上，让你的产品更美观</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%843D%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/7.jpeg" alt=""></p><p>最后，网站上<strong>提供了80个人物姿势和造型</strong>，你可以根据自己的产品需求任意发挥，<strong>免费用户可以下载1个人物、1个姿势、4种独特的服装</strong>。</p><h3 id="iPhone-3D-Mockups"><a href="#iPhone-3D-Mockups" class="headerlink" title="iPhone 3D Mockups"></a><a href="https://www.bemore.graphics" target="_blank" rel="noopener">iPhone 3D Mockups</a></h3><p>网址：<a href="https://www.bemore.graphics" target="_blank" rel="noopener">https://www.bemore.graphics</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%843D%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/8.jpeg" alt=""></p><p>打开网站，可以看到<strong>大标题就是40个iPhone 3d样机的集合，在iPhone X、XS、11、11 Pro上轻松展示您的iOS产品</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%843D%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/9.jpeg" alt=""></p><p>这些3D样机有<strong>5种iPhone颜色+4种手势样式+垂直和水平视图</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%843D%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/10.jpeg" alt=""></p><p>它有两种模式，分别是<strong>极简主义银、赶时髦的蓝</strong>，还有一些太空灰、午夜绿色等等。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%843D%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/11.jpeg" alt=""></p><p>这些高分辨率的<strong>iPhone 3d模型有40个场景</strong>，可轻松展示我们的产品。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，推荐近期新发现的两个3D设计资源，分别是时髦的3D角色集和高分辨率的iPhone 3D样机模型，这两个资源可以美化自己的产品，提高生产力。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Humans&quot;&gt;&lt;a 
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="3D交互" scheme="http://maliquankai.com/tags/3D%E4%BA%A4%E4%BA%92/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>懒猫存钱账单图+存钱计划货币切换</title>
+    <link href="http://maliquankai.com/2020/09/24/2020-09-24-lazycat-savemoney1.5.3/"/>
+    <id>http://maliquankai.com/2020/09/24/2020-09-24-lazycat-savemoney1.5.3/</id>
+    <published>2020-09-24T15:22:01.000Z</published>
+    <updated>2020-09-24T16:09:37.161Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，懒猫存钱V1.5.4重要更新，主要更新了账单图功能。</p></blockquote><p><strong>懒猫存钱上线后获得了苹果新鲜应用、喵帮手专题推荐</strong>，感兴趣的朋友AppStore搜索 <strong>懒猫存钱</strong> 即可下载体验。</p><h4 id="懒猫存钱近期更新的主要Features："><a href="#懒猫存钱近期更新的主要Features：" class="headerlink" title="懒猫存钱近期更新的主要Features："></a>懒猫存钱近期更新的主要Features：</h4><p><strong>1.</strong> <strong>账单图</strong> - 设置页开启账单图，发布记账最多可以选择4张图片且可以对图片进行裁切和备注</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E8%B4%A6%E5%8D%95%E5%9B%BE%2B%E5%AD%98%E9%92%B1%E8%AE%A1%E5%88%92%E8%B4%A7%E5%B8%81%E5%88%87%E6%8D%A2/%E5%9B%BE%E7%89%87%E8%AE%B0%E8%B4%A6.png" alt=""></p><p><strong>2.</strong> <strong>存钱支持货币切换</strong> - 发布存钱计划点击存钱金额前面的货币符号可以选择15种货币</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E8%B4%A6%E5%8D%95%E5%9B%BE%2B%E5%AD%98%E9%92%B1%E8%AE%A1%E5%88%92%E8%B4%A7%E5%B8%81%E5%88%87%E6%8D%A2/%E5%AD%98%E9%92%B1%E5%B8%81%E7%A7%8D.png" alt=""></p><p><strong>3.</strong> <strong>资产管理</strong> - 资产账户页面列表处支持长按拖动排序以及左滑修改或删除</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E8%B4%A6%E5%8D%95%E5%9B%BE%2B%E5%AD%98%E9%92%B1%E8%AE%A1%E5%88%92%E8%B4%A7%E5%B8%81%E5%88%87%E6%8D%A2/%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86.png" alt=""></p><p><strong>4.</strong> <strong>货币排序</strong> - 设置页点击货币单位，长按列表可以拖动排序</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E8%B4%A6%E5%8D%95%E5%9B%BE%2B%E5%AD%98%E9%92%B1%E8%AE%A1%E5%88%92%E8%B4%A7%E5%B8%81%E5%88%87%E6%8D%A2/%E5%B8%81%E7%A7%8D%E6%8E%92%E5%BA%8F.png" alt=""></p><p><strong>5.</strong> <strong>小组件切换货币</strong> - 小组件发布记账，可以点击货币符号切换货币</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E8%B4%A6%E5%8D%95%E5%9B%BE%2B%E5%AD%98%E9%92%B1%E8%AE%A1%E5%88%92%E8%B4%A7%E5%B8%81%E5%88%87%E6%8D%A2/%E5%B0%8F%E7%BB%84%E4%BB%B6%E5%88%87%E6%8D%A2%E8%B4%A7%E5%B8%81.png" alt=""></p><p><strong>6.</strong> 账本详情页点击导航栏上的账本标题可以修改账本名称和配图</p><p><strong>7.</strong> <strong>再记模式和账单图功能合并</strong>，开启账单图，发布记账的键盘上会显示再记按钮</p><p><strong>8.</strong> <strong>饼状图统计显示总支出/收入</strong></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，懒猫存钱V1.5.4重要更新，主要更新了账单图功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;懒猫存钱上线后获得了苹果新鲜应用、喵帮手专题推荐&lt;/strong&gt;，感兴趣的朋友AppStore搜索 
+      
+    
+    </summary>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推荐一个大量精心创建的3D样式图标集</title>
+    <link href="http://maliquankai.com/2020/09/17/2020-09-17-3d-icons/"/>
+    <id>http://maliquankai.com/2020/09/17/2020-09-17-3d-icons/</id>
+    <published>2020-09-17T15:22:01.000Z</published>
+    <updated>2020-09-24T16:14:30.683Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，推荐一个新发现的3D样式图标集，它包含1240个大量精心创建的3D图标集合，这些图标有整洁的3D设计样式。</p></blockquote><h3 id="iconshock"><a href="#iconshock" class="headerlink" title="iconshock"></a><a href="https://www.iconshock.com/3d-icons" target="_blank" rel="noopener">iconshock</a></h3><p>网址：<a href="https://www.iconshock.com/3d-icons/" target="_blank" rel="noopener">https://www.iconshock.com/3d-icons/</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A4%A7%E9%87%8F%E7%B2%BE%E5%BF%83%E5%88%9B%E5%BB%BA%E7%9A%843D%E6%A0%B7%E5%BC%8F%E5%9B%BE%E6%A0%87%E9%9B%86/1.jpg" alt=""></p><p><strong>高分辨率的时尚3D图标设计</strong>，包含1240个图标的大量集合，这些图标具有<strong>整洁的3D设计样式，尺寸为4000x4000px，并以透明的PNG文件格式提供</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A4%A7%E9%87%8F%E7%B2%BE%E5%BF%83%E5%88%9B%E5%BB%BA%E7%9A%843D%E6%A0%B7%E5%BC%8F%E5%9B%BE%E6%A0%87%E9%9B%86/2.jpg" alt=""></p><p>这些3D样式的设计具有不同的视角，<strong>5个不同调色板中的248个独特3D图标</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A4%A7%E9%87%8F%E7%B2%BE%E5%BF%83%E5%88%9B%E5%BB%BA%E7%9A%843D%E6%A0%B7%E5%BC%8F%E5%9B%BE%E6%A0%87%E9%9B%86/3.jpeg" alt=""></p><p><strong>五个不同的调色板，可以让这些图标用于多种行业</strong>，具有鲜艳的时尚色彩和独特的变化。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A4%A7%E9%87%8F%E7%B2%BE%E5%BF%83%E5%88%9B%E5%BB%BA%E7%9A%843D%E6%A0%B7%E5%BC%8F%E5%9B%BE%E6%A0%87%E9%9B%86/4.jpeg" alt=""></p><p><strong>前视图和透视图</strong>，该套件提供了两种不同的角度来增加设计的多功能性和动态性，正视图和透视图均提供。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A4%A7%E9%87%8F%E7%B2%BE%E5%BF%83%E5%88%9B%E5%BB%BA%E7%9A%843D%E6%A0%B7%E5%BC%8F%E5%9B%BE%E6%A0%87%E9%9B%86/5.jpeg" alt=""></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A4%A7%E9%87%8F%E7%B2%BE%E5%BF%83%E5%88%9B%E5%BB%BA%E7%9A%843D%E6%A0%B7%E5%BC%8F%E5%9B%BE%E6%A0%87%E9%9B%86/6.jpg" alt=""></p><p>这些3D设计图标使您的项目脱颖而出，<strong>可用于移动端的启动页、演示文稿、Web项目等等</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%A4%A7%E9%87%8F%E7%B2%BE%E5%BF%83%E5%88%9B%E5%BB%BA%E7%9A%843D%E6%A0%B7%E5%BC%8F%E5%9B%BE%E6%A0%87%E9%9B%86/7.jpeg" alt=""></p><p>最后，网站上提供了大量的3D图标，<strong>免费用户可以下载50个图标，1个调色板</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，推荐一个新发现的3D样式图标集，它包含1240个大量精心创建的3D图标集合，这些图标有整洁的3D设计样式。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;iconshock&quot;&gt;&lt;a href=&quot;#iconsh
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="图标网站" scheme="http://maliquankai.com/tags/%E5%9B%BE%E6%A0%87%E7%BD%91%E7%AB%99/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>懒猫存钱V1.5.0重要更新</title>
+    <link href="http://maliquankai.com/2020/09/11/2020-09-11-lazycat-savemoney1.5.0/"/>
+    <id>http://maliquankai.com/2020/09/11/2020-09-11-lazycat-savemoney1.5.0/</id>
+    <published>2020-09-11T15:22:01.000Z</published>
+    <updated>2020-09-11T18:49:48.886Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，懒猫存钱V1.5.0重要更新，本次更新了不少实用功能。</p></blockquote><p><strong>懒猫存钱上线后获得了苹果新鲜应用、喵帮手专题推荐</strong>，感兴趣的朋友AppStore搜索 <strong>懒猫存钱</strong> 即可下载体验。</p><h4 id="懒猫存钱近期更新的主要Features："><a href="#懒猫存钱近期更新的主要Features：" class="headerlink" title="懒猫存钱近期更新的主要Features："></a>懒猫存钱近期更新的主要Features：</h4><p><strong>1.</strong> <strong>日历视图</strong> - 日历上清晰查看每天的支出和收入</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1V1.5.0%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0/%E6%97%A5%E5%8E%86%E8%A7%86%E5%9B%BE.png" alt=""></p><p><strong>2.</strong> <strong>搜索功能</strong> - 设置页搜索账单（可输入分类名称/金额/备注进行搜索，同时搜索结果可以<strong>选择起始日期进行筛选</strong>）</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1V1.5.0%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0/%E5%8C%BA%E9%97%B4%E6%90%9C%E7%B4%A2.png" alt=""></p><p><strong>3.</strong> <strong>按月按年支持饼状图统计</strong> - 统计页面点击按月/按年柱状图下的月份或年份又或者点击柱状图上的金额即可查看饼状图统计，<strong>按月的饼状图统计可以选择起始日期进行筛选统计</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1V1.5.0%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0/%E5%8C%BA%E9%97%B4%E7%BB%9F%E8%AE%A1.png" alt=""></p><p><strong>4.</strong> <strong>账本关联分类</strong> - 可以设置不同账本对应不同的支出/收入分类</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1V1.5.0%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0/%E8%B4%A6%E6%9C%AC%E5%88%86%E7%B1%BB.png" alt=""></p><p><strong>5.</strong> <strong>账本预算</strong> - 账本关联对应的分类预算（分类预算移到了账本里）</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1V1.5.0%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0/%E8%B4%A6%E6%9C%AC%E9%A2%84%E7%AE%97.png" alt=""></p><p><strong>6.</strong> <strong>折线图显示金额</strong> - 按周的折线图统计显示每天的支出/收入金额</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1V1.5.0%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0/%E7%BB%9F%E8%AE%A1.png" alt=""></p><p><strong>7.</strong> <strong>存钱备注</strong> - 点击存钱可以添加备注以及自由存钱模式支持显示当前的存钱日期</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1V1.5.0%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0/%E5%AD%98%E9%92%B1%E5%A4%87%E6%B3%A8.png" alt=""></p><p><strong>8.</strong> <strong>支出/收入分类配图</strong> - 新增了大量精致好看的分类配图，可自由选择</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1V1.5.0%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0/%E5%88%86%E7%B1%BB%E5%9B%BE%E5%BA%93.png" alt=""></p><p><strong>9.</strong> <strong>记账封面配图</strong> - 新增8个记账封面配图，可以自由选择不同风格的封面配图</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1V1.5.0%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0/%E5%B0%81%E9%9D%A2%E9%85%8D%E5%9B%BE.png" alt=""></p><p><strong>10.</strong> <strong>每日提醒</strong> - 设置页每日提醒<strong>支持更改提醒文案和修改提醒时间</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1V1.5.0%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0/%E6%AF%8F%E6%97%A5%E6%8F%90%E9%86%92.png" alt=""></p><p><strong>11.</strong> 资产账户支持不进入总资产（设置资产金额或添加资产账户的时候可选择）</p><p><strong>12.</strong> 重置资产账户的金额（资产账户详情页点击账户明细大标题自动计算为支出和收入之和）</p><p><strong>13.</strong> <strong>存钱计划支持显示百分比进度</strong></p><p><strong>14.</strong> 设置页新增再记模式、秒开模式</p><p><strong>15.</strong> 设置页新增记账封面更换（可以选择自己喜欢的记账封面）</p><p><strong>16.</strong> <strong>设置页数据备份页面支持导出CSV格式的记账数据</strong></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，懒猫存钱V1.5.0重要更新，本次更新了不少实用功能。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;懒猫存钱上线后获得了苹果新鲜应用、喵帮手专题推荐&lt;/strong&gt;，感兴趣的朋友AppStore搜索
+      
+    
+    </summary>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推荐两个不同风格的免费插画网站</title>
+    <link href="http://maliquankai.com/2020/09/01/2020-09-01-free-inllustraions/"/>
+    <id>http://maliquankai.com/2020/09/01/2020-09-01-free-inllustraions/</id>
+    <published>2020-09-01T15:22:01.000Z</published>
+    <updated>2020-09-11T15:39:24.653Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，推荐两个近期发现的插画素材，分别是可爱风的矢量插画和印度涂鸦插画包，都是免费可商用的插画素材。</p></blockquote><h3 id="Loomies"><a href="#Loomies" class="headerlink" title="Loomies"></a><a href="https://www.getillustrations.com/illustration-pack/loomies-free-vector-illustrations" target="_blank" rel="noopener">Loomies</a></h3><p>网址：<a href="https://www.getillustrations.com/illustration-pack/loomies-free-vector-illustrations" target="_blank" rel="noopener">https://www.getillustrations.com/illustration-pack/loomies-free-vector-illustrations</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E4%B8%8D%E5%90%8C%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%85%8D%E8%B4%B9%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99/1-1.png" alt=""></p><p><strong>网站上有39个免费可爱的矢量插画素材，可免费用于个人和商业项目中</strong>，如果你正在寻找<strong>可爱的卡通人物插画，不要错过这组精美的Loomies插画元素，支持Sketch、Figma、XD格式</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E4%B8%8D%E5%90%8C%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%85%8D%E8%B4%B9%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99/1.jpg" alt=""></p><p>当然，也可以付费解锁更多其它主题风格多样的插画包素材，接下来，展示一些Loomies内的插画素材。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E4%B8%8D%E5%90%8C%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%85%8D%E8%B4%B9%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99/2.jpg" alt=""></p><p>还有很多其它类型的插画素材，这里仅仅展示了一部分，更多素材可以自己去查看。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E4%B8%8D%E5%90%8C%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%85%8D%E8%B4%B9%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99/3.jpg" alt=""></p><h3 id="IconsCout"><a href="#IconsCout" class="headerlink" title="IconsCout"></a><a href="https://iconscout.com/illustration-pack/indian-doodle" target="_blank" rel="noopener">IconsCout</a></h3><p>网址：<a href="https://iconscout.com/illustration-pack/indian-doodle" target="_blank" rel="noopener">https://iconscout.com/illustration-pack/indian-doodle</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E4%B8%8D%E5%90%8C%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%85%8D%E8%B4%B9%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99/4.jpg" alt=""></p><p><strong>一组由iconscout提供的免费印度涂鸦插画包</strong>，此插画包内有60个矢量插画<strong>支持EPS、SVG和PNG格式</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E4%B8%8D%E5%90%8C%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%85%8D%E8%B4%B9%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99/5.jpg" alt=""></p><p>可以点击任意一个插画素材可以直接下载，或者进入到<strong>下载详情页可以编辑插画的背景颜色</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E4%B8%8D%E5%90%8C%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%85%8D%E8%B4%B9%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99/6.jpg" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，推荐两个近期发现的插画素材，分别是可爱风的矢量插画和印度涂鸦插画包，都是免费可商用的插画素材。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Loomies&quot;&gt;&lt;a href=&quot;#Loomies&quot; class
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="插画素材" scheme="http://maliquankai.com/tags/%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这个插画网站轻松生成无限数量的插画</title>
+    <link href="http://maliquankai.com/2020/08/23/2020-08-23-two-inllustraions/"/>
+    <id>http://maliquankai.com/2020/08/23/2020-08-23-two-inllustraions/</id>
+    <published>2020-08-23T15:22:01.000Z</published>
+    <updated>2020-08-31T08:50:37.235Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，推荐两个近期发现了插画素材，一个是可以自由定义插画的网站Wrrooom，一个是精心设计的开源矢量插画Eye-Pop Illustrations。</p></blockquote><h3 id="Wrrooom"><a href="#Wrrooom" class="headerlink" title="Wrrooom"></a><a href="https://products.ls.graphics/wrrooom" target="_blank" rel="noopener">Wrrooom</a></h3><p>网址：<a href="https://products.ls.graphics/wrrooom" target="_blank" rel="noopener">https://products.ls.graphics/wrrooom</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%BF%99%E4%B8%AA%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99%E8%BD%BB%E6%9D%BE%E7%94%9F%E6%88%90%E6%97%A0%E9%99%90%E6%95%B0%E9%87%8F%E7%9A%84%E6%8F%92%E7%94%BB/1.png" alt=""></p><p>打开网站可以看到它提供了<strong>Figma和Sketch格式的插画构造器，使用这两种格式可以自由定义组合想要的插画</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%BF%99%E4%B8%AA%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99%E8%BD%BB%E6%9D%BE%E7%94%9F%E6%88%90%E6%97%A0%E9%99%90%E6%95%B0%E9%87%8F%E7%9A%84%E6%8F%92%E7%94%BB/2.png" alt=""></p><p>网站往下翻，可以看到<strong>Sketch / Figma文件提供了很多修饰元素，这些修饰元素可以让你创建精美的插图</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%BF%99%E4%B8%AA%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99%E8%BD%BB%E6%9D%BE%E7%94%9F%E6%88%90%E6%97%A0%E9%99%90%E6%95%B0%E9%87%8F%E7%9A%84%E6%8F%92%E7%94%BB/3.jpg" alt=""></p><p>接着，它还提供了一些组件库和资料库，比如：<strong>面部表情、头发、衣服、装饰、肤色等等，这些组件可以让你任意定制插画角色</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%BF%99%E4%B8%AA%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99%E8%BD%BB%E6%9D%BE%E7%94%9F%E6%88%90%E6%97%A0%E9%99%90%E6%95%B0%E9%87%8F%E7%9A%84%E6%8F%92%E7%94%BB/4.png" alt=""></p><p>通过这些<strong>眉毛、眼睛、嘴巴等组件的调整，可以创造出不同的新角色情感</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%BF%99%E4%B8%AA%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99%E8%BD%BB%E6%9D%BE%E7%94%9F%E6%88%90%E6%97%A0%E9%99%90%E6%95%B0%E9%87%8F%E7%9A%84%E6%8F%92%E7%94%BB/5.png" alt=""></p><p>创造出的这些人物角色插画可以用在移动端或Web项目中，特别适合一些移动端产品的启动页。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%BF%99%E4%B8%AA%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99%E8%BD%BB%E6%9D%BE%E7%94%9F%E6%88%90%E6%97%A0%E9%99%90%E6%95%B0%E9%87%8F%E7%9A%84%E6%8F%92%E7%94%BB/6.png" alt=""></p><p>最后，网站上还提供了<strong>200+的元素组件，比如人物角色、家具、植物、工作、抱枕、图示等等</strong>。</p><h3 id="Eye-Pop-Illustrations"><a href="#Eye-Pop-Illustrations" class="headerlink" title="Eye-Pop Illustrations"></a><a href="https://webpixels.io/illustrations" target="_blank" rel="noopener">Eye-Pop Illustrations</a></h3><p>网址：<a href="https://webpixels.io/illustrations" target="_blank" rel="noopener">https://webpixels.io/illustrations</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%BF%99%E4%B8%AA%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99%E8%BD%BB%E6%9D%BE%E7%94%9F%E6%88%90%E6%97%A0%E9%99%90%E6%95%B0%E9%87%8F%E7%9A%84%E6%8F%92%E7%94%BB/7.png" alt=""></p><p><strong>这是一组精心设计的可以使用在Web或移动端项目中的开源矢量插画</strong>，这些插画可以让你的项目增添色彩。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%BF%99%E4%B8%AA%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99%E8%BD%BB%E6%9D%BE%E7%94%9F%E6%88%90%E6%97%A0%E9%99%90%E6%95%B0%E9%87%8F%E7%9A%84%E6%8F%92%E7%94%BB/8.png" alt=""></p><p>网站往下翻，可以看到这里提供了16组插画素材，插画风格还不错。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E8%BF%99%E4%B8%AA%E6%8F%92%E7%94%BB%E7%BD%91%E7%AB%99%E8%BD%BB%E6%9D%BE%E7%94%9F%E6%88%90%E6%97%A0%E9%99%90%E6%95%B0%E9%87%8F%E7%9A%84%E6%8F%92%E7%94%BB/9.png" alt=""></p><p>点击任意一个插画素材，<strong>可以免费下载SVG和PNG格式的矢量插画，可以免费用于个人和商业项目中（但需要注明出处）</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，推荐两个近期发现了插画素材，一个是可以自由定义插画的网站Wrrooom，一个是精心设计的开源矢量插画Eye-Pop Illustrations。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Wrrooom&quot;
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="插画素材" scheme="http://maliquankai.com/tags/%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推荐两个非常漂亮的样机生成器</title>
+    <link href="http://maliquankai.com/2020/08/17/2020-08-17-two-mockup/"/>
+    <id>http://maliquankai.com/2020/08/17/2020-08-17-two-mockup/</id>
+    <published>2020-08-17T15:22:01.000Z</published>
+    <updated>2020-08-17T17:31:15.005Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，最近发现了两个非常漂亮的样机生成器工具，这两个网站的样机生成器不仅好看而且免费，一个是Previewed，另外一个是Device Shots。</p></blockquote><h3 id="Previewed"><a href="#Previewed" class="headerlink" title="Previewed"></a><a href="https://previewed.app" target="_blank" rel="noopener">Previewed</a></h3><p>网址：<a href="https://previewed.app" target="_blank" rel="noopener">https://previewed.app</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%BC%82%E4%BA%AE%E7%9A%84%E6%A0%B7%E6%9C%BA%E7%94%9F%E6%88%90%E5%99%A8/mock.png" alt=""></p><p>打开网站可以看到大标题<strong>为你的下一个应用程序创建完美的样机</strong>，这里提供了三种设计类型，分别是<strong>屏幕截图、视频、样机模板</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%BC%82%E4%BA%AE%E7%9A%84%E6%A0%B7%E6%9C%BA%E7%94%9F%E6%88%90%E5%99%A8/mock2.png" alt=""></p><p>网站往下翻，可以看到提供的<strong>iPhone和Android的样机模板，样机模板非常漂亮</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%BC%82%E4%BA%AE%E7%9A%84%E6%A0%B7%E6%9C%BA%E7%94%9F%E6%88%90%E5%99%A8/mock3.png" alt=""></p><p>接着，它还提供了苹果设备的样机，比如<strong>MacBook、iPhone、iPad、iMac一体机等等</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%BC%82%E4%BA%AE%E7%9A%84%E6%A0%B7%E6%9C%BA%E7%94%9F%E6%88%90%E5%99%A8/mock4.png" alt=""></p><p>我们再来看<strong>一组iPad和iPhone的高清质量的样机资源</strong>，效果非常赞。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%BC%82%E4%BA%AE%E7%9A%84%E6%A0%B7%E6%9C%BA%E7%94%9F%E6%88%90%E5%99%A8/mock5.png" alt=""></p><p>点击任意一个样机资源就可以进入到编辑页面，<strong>在编辑页面调整的参数非常多，比如：调整背景、选择设备、尺寸大小、替换图片、添加文本等等</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%BC%82%E4%BA%AE%E7%9A%84%E6%A0%B7%E6%9C%BA%E7%94%9F%E6%88%90%E5%99%A8/mock6.png" alt=""></p><p>网站上默认提供了一些<strong>预置的AppStore和GooglePlay的屏幕截图样机模板</strong>，你只需要替换图片、改变文本内容即可。</p><h3 id="Device-Shots"><a href="#Device-Shots" class="headerlink" title="Device Shots"></a><a href="https://deviceshots.com" target="_blank" rel="noopener">Device Shots</a></h3><p>网址：<a href="https://deviceshots.com" target="_blank" rel="noopener">https://deviceshots.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%BC%82%E4%BA%AE%E7%9A%84%E6%A0%B7%E6%9C%BA%E7%94%9F%E6%88%90%E5%99%A8/moc.png" alt=""></p><p>打开网站，大标题就是<strong>几秒钟内即可创建不同设备的样机，通过网站或移动应用程序的屏幕截图免费获取高分辨率的设备模型</strong>，比如：手机、平板电脑、电脑、手表等等。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%BC%82%E4%BA%AE%E7%9A%84%E6%A0%B7%E6%9C%BA%E7%94%9F%E6%88%90%E5%99%A8/moc2.png" alt=""></p><p>网站往下翻，可以看到这里罗列了<strong>支持的所有设备的机型</strong>，算是比较全面了。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E9%9D%9E%E5%B8%B8%E6%BC%82%E4%BA%AE%E7%9A%84%E6%A0%B7%E6%9C%BA%E7%94%9F%E6%88%90%E5%99%A8/moc3.png" alt=""></p><p>点击任意一个机型，即可进入到编辑页面，<strong>编辑页面可以上传自己的截图，选择不同的背景、调整画布的尺寸等等</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，最近发现了两个非常漂亮的样机生成器工具，这两个网站的样机生成器不仅好看而且免费，一个是Previewed，另外一个是Device Shots。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Previewed
+      
+    
+    </summary>
+    
+      <category term="工具资源" scheme="http://maliquankai.com/categories/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="样机素材" scheme="http://maliquankai.com/tags/%E6%A0%B7%E6%9C%BA%E7%B4%A0%E6%9D%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>懒猫存钱近期功能一览</title>
+    <link href="http://maliquankai.com/2020/08/10/2020-08-05-lazycat-savemoneytip/"/>
+    <id>http://maliquankai.com/2020/08/10/2020-08-05-lazycat-savemoneytip/</id>
+    <published>2020-08-10T15:22:01.000Z</published>
+    <updated>2020-08-10T17:16:23.003Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，懒猫存钱上线两周+，收获了1100+个评分，要感谢大家的支持，近期懒猫存钱迭代了不少新功能，随着版本的不断迭代优化，懒猫存钱越来越完善的同时也希望你们能够越来越喜欢。</p></blockquote><p><strong>懒猫存钱上线后获得了苹果新鲜应用、喵帮手专题推荐</strong>，感兴趣的朋友AppStore搜索 <strong>懒猫存钱</strong> 即可下载体验。</p><h3 id="懒猫存钱近期更新的主要Features："><a href="#懒猫存钱近期更新的主要Features：" class="headerlink" title="懒猫存钱近期更新的主要Features："></a>懒猫存钱近期更新的主要Features：</h3><p><strong>1. 适配iPad</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E8%BF%91%E6%9C%9F%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/ipad.png" alt=""></p><p><strong>2.</strong> <strong>资产账户</strong> - 可自定义资产账户、设置资产账户对应的金额，查看资产账户内的支出/收入明细</p><p><strong>3.</strong> <strong>分类预算</strong> - 可设置月度预算、每个分类对应的预算，查看分类下的支出/收入明细</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E8%BF%91%E6%9C%9F%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/%E8%B5%84%E4%BA%A7%E9%A2%84%E7%AE%97.png" alt=""></p><p><strong>4.</strong> 存钱计划支持长按<strong>手动拖拽排序</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/官网/新产品%20%7C%20懒猫存钱%20-%20存钱记账有模有样/1_存钱模式.png" alt=""></p><p><strong>5.</strong> <strong>账本内新增统计功能</strong> - 饼状图清晰查看账本内的支出/收入</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E8%BF%91%E6%9C%9F%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/%E8%B4%A6%E6%9C%AC%E7%BB%9F%E8%AE%A1.png" alt=""></p><p><strong>6.</strong> <strong>Today Widget 支出快速记账</strong> / 3DTouch快速记账</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E8%BF%91%E6%9C%9F%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/%E5%B0%8F%E7%BB%84%E4%BB%B6.png" alt=""></p><p><strong>7.</strong> 记账 / 存钱主页面支持手势右滑记账 / 存钱</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/官网/新产品%20%7C%20懒猫存钱%20-%20存钱记账有模有样/2_记账模式.png" alt=""></p><p><strong>8.</strong> 资产账户详情页支持账户之间的<strong>相互转账以及发布记账</strong></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%E8%BF%91%E6%9C%9F%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88/%E8%BD%AC%E8%B4%A6.png" alt=""></p><p><strong>9.</strong> 统计页面<strong>合并相同分类</strong>，统计更直观、更精准</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/官网/新产品%20%7C%20懒猫存钱%20-%20存钱记账有模有样/3_记账统计.png" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，懒猫存钱上线两周+，收获了1100+个评分，要感谢大家的支持，近期懒猫存钱迭代了不少新功能，随着版本的不断迭代优化，懒猫存钱越来越完善的同时也希望你们能够越来越喜欢。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;s
+      
+    
+    </summary>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图标库和一个漂亮的形状工具推荐</title>
+    <link href="http://maliquankai.com/2020/08/01/2020-08-01-icon-shape/"/>
+    <id>http://maliquankai.com/2020/08/01/2020-08-01-icon-shape/</id>
+    <published>2020-08-01T15:22:01.000Z</published>
+    <updated>2020-08-05T09:05:40.670Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，今天推荐两个设计工具，一个是558个完全可定制的免费SVG图标，另外一个是形状生成工具Squircley，两个工具网站都还不错，大家可以体验一下。</p></blockquote><h3 id="Tabler-Icons"><a href="#Tabler-Icons" class="headerlink" title="Tabler Icons"></a><a href="https://tablericons.com" target="_blank" rel="noopener">Tabler Icons</a></h3><p>网址：<a href="https://tablericons.com" target="_blank" rel="noopener">https://tablericons.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%9B%BE%E6%A0%87%E5%BA%93%E5%92%8C%E4%B8%80%E4%B8%AA%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BD%A2%E7%8A%B6%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/4.jpg" alt=""></p><p>打开网站可以看到<strong>558个完全可定制的免费SVG图标</strong>，默认是黑色的图标库，它<strong>提供了搜索、修改颜色、大小、图标粗细的入口</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%9B%BE%E6%A0%87%E5%BA%93%E5%92%8C%E4%B8%80%E4%B8%AA%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BD%A2%E7%8A%B6%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/5.png" alt=""></p><p>比如，我们修改一下图标的颜色和粗细，这里<strong>默认提供了19个颜色主题，直接点击即可替换，你也可以直接输入色值进行图标换色</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%9B%BE%E6%A0%87%E5%BA%93%E5%92%8C%E4%B8%80%E4%B8%AA%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BD%A2%E7%8A%B6%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/6.png" alt=""></p><p><strong>图标库的种类非常多，而且图标的质量还不错</strong>，又方便我们自定义图标的一些参数。</p><h3 id="Squircley"><a href="#Squircley" class="headerlink" title="Squircley"></a><a href="https://squircley.app" target="_blank" rel="noopener">Squircley</a></h3><p>网址：<a href="https://squircley.app" target="_blank" rel="noopener">https://squircley.app</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%9B%BE%E6%A0%87%E5%BA%93%E5%92%8C%E4%B8%80%E4%B8%AA%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BD%A2%E7%8A%B6%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/1.png" alt=""></p><p>打开Squircley，可以看到默认黄色的椭圆形状，这里<strong>提供了旋转方向、缩放比例、形状改变、颜色填充的入口</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%9B%BE%E6%A0%87%E5%BA%93%E5%92%8C%E4%B8%80%E4%B8%AA%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BD%A2%E7%8A%B6%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/2.png" alt=""></p><p>比如，我们改变一下形状换个颜色以及调整一下它的缩放比例。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E5%9B%BE%E6%A0%87%E5%BA%93%E5%92%8C%E4%B8%80%E4%B8%AA%E6%BC%82%E4%BA%AE%E7%9A%84%E5%BD%A2%E7%8A%B6%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/3.png" alt=""></p><p>调整出一个满意的形状，<strong>点击Save或者Copy即可直接下载或拷贝SVG代码</strong>，它可以为你的设计增加一些美感，这些形状可用于Logo、图标、背景图像等场景。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，今天推荐两个设计工具，一个是558个完全可定制的免费SVG图标，另外一个是形状生成工具Squircley，两个工具网站都还不错，大家可以体验一下。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Tabler-
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="图标网站" scheme="http://maliquankai.com/tags/%E5%9B%BE%E6%A0%87%E7%BD%91%E7%AB%99/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一键抠图，推荐这三个抠图神器</title>
+    <link href="http://maliquankai.com/2020/07/26/2020-07-26-ps-tool/"/>
+    <id>http://maliquankai.com/2020/07/26/2020-07-26-ps-tool/</id>
+    <published>2020-07-26T15:22:01.000Z</published>
+    <updated>2020-07-26T17:27:45.679Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，今天推荐几个很强大的线上去背景网站，这些工具可以帮我们快速抠图去除背景，帮我们节省了大量的时间，这三个工具分别是RemoveBg、Slazzer、UnScreen。</p></blockquote><h3 id="Slazzer"><a href="#Slazzer" class="headerlink" title="Slazzer"></a><a href="https://slazzer.com" target="_blank" rel="noopener">Slazzer</a></h3><p>网址：<a href="https://slazzer.com" target="_blank" rel="noopener">https://slazzer.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E9%94%AE%E6%8A%A0%E5%9B%BE%EF%BC%8C%E6%8E%A8%E8%8D%90%E8%BF%99%E4%B8%89%E4%B8%AA%E6%8A%A0%E5%9B%BE%E7%A5%9E%E5%99%A8/2.jpg" alt=""></p><p><strong>Slazzer基于AI的技术可以在短短几秒钟内自动删除图像背景</strong>，只需要5秒钟即可实现一键抠图去除背景，同时Slazzer也在不断的根据AI技术进行改进，目的为了不断的提升准确率。</p><h3 id="RemoveBg"><a href="#RemoveBg" class="headerlink" title="RemoveBg"></a><a href="https://www.remove.bg/zh" target="_blank" rel="noopener">RemoveBg</a></h3><p>网址：<a href="https://www.remove.bg/zh" target="_blank" rel="noopener">https://www.remove.bg/zh</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E9%94%AE%E6%8A%A0%E5%9B%BE%EF%BC%8C%E6%8E%A8%E8%8D%90%E8%BF%99%E4%B8%89%E4%B8%AA%E6%8A%A0%E5%9B%BE%E7%A5%9E%E5%99%A8/1.jpg" alt=""></p><p><strong>remove.bg是一个很强大的线上去背景网站，100%全自动的AI技术</strong>，以训练好的模型快速分辨照片前景和背景，将主体分离后成为透明背景，只需要上传一张要处理的图片或者贴一个图片的URL即可。</p><h3 id="Unscreen"><a href="#Unscreen" class="headerlink" title="Unscreen"></a><a href="https://www.unscreen.com" target="_blank" rel="noopener">Unscreen</a></h3><p>网址：<a href="https://www.unscreen.com" target="_blank" rel="noopener">https://www.unscreen.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E9%94%AE%E6%8A%A0%E5%9B%BE%EF%BC%8C%E6%8E%A8%E8%8D%90%E8%BF%99%E4%B8%89%E4%B8%AA%E6%8A%A0%E5%9B%BE%E7%A5%9E%E5%99%A8/3.jpg" alt=""></p><p><strong>Unscreen是一个在线免费的扣视频背景神器，它支持mp4、gif、mov、.webm、.ogg格式</strong>，上传视频或GIF自动去除背景保留主体。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，今天推荐几个很强大的线上去背景网站，这些工具可以帮我们快速抠图去除背景，帮我们节省了大量的时间，这三个工具分别是RemoveBg、Slazzer、UnScreen。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>汇集超多免费可商用的插画资源站</title>
+    <link href="http://maliquankai.com/2020/07/20/2020-07-20-freeillustrations-xyz/"/>
+    <id>http://maliquankai.com/2020/07/20/2020-07-20-freeillustrations-xyz/</id>
+    <published>2020-07-20T15:22:01.000Z</published>
+    <updated>2020-07-26T17:14:49.546Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，今天推荐一个完全免费可商用的插画素材资源站，网站上收集了超多的免费可商用插画素材，而且按照了插画支持的格式进行了分类，比如AI、EPS、Fligma、GIF、PNG、PSD、Sketch、SVG、Xd等等，同时有最近收录插画的栏目展示。</p><p>另外，大家也可以去码力全开资源站，目前码力全开资源站收录了53个插画素材，插画种类丰富多样，可以按需选择。</p></blockquote><h3 id="Freeillustrations"><a href="#Freeillustrations" class="headerlink" title="Freeillustrations"></a><a href="https://freeillustrations.xyz" target="_blank" rel="noopener">Freeillustrations</a></h3><p>网址：<a href="https://freeillustrations.xyz" target="_blank" rel="noopener">https://freeillustrations.xyz</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%B1%87%E9%9B%86%E8%B6%85%E5%A4%9A%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E6%8F%92%E7%94%BB%E8%B5%84%E6%BA%90%E7%AB%99/1.jpg" alt=""></p><p>打开网站，可以看到大标题就是<strong>查找免费可商用的插画图，一目了然可以看到最近添加或更新的插画素材</strong>，有的是插画包，有的则是一组插画。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%B1%87%E9%9B%86%E8%B6%85%E5%A4%9A%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E6%8F%92%E7%94%BB%E8%B5%84%E6%BA%90%E7%AB%99/2.jpg" alt=""></p><p>往下翻，可以看到它是按文件类型进行了归类，比如<strong>AI、EPS、Fligma、GIF、PNG、JPG、PSD、Sketch、SVG、XD等等，选择任意一个类型就可以看到此类型下的插画素材</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%B1%87%E9%9B%86%E8%B6%85%E5%A4%9A%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E6%8F%92%E7%94%BB%E8%B5%84%E6%BA%90%E7%AB%99/3.jpg" alt=""></p><p>在这里，可以看到收录了<strong>大量不同类型的免费可商用插画，风格迥异，插画主题明确</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%B1%87%E9%9B%86%E8%B6%85%E5%A4%9A%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E6%8F%92%E7%94%BB%E8%B5%84%E6%BA%90%E7%AB%99/4.jpg" alt=""></p><p>点击任意一个插画素材，进入到详情页，左侧介绍了此<strong>插画素材的文件格式、插画主题以及免费可商用的一些标注</strong>，同时下面也提供了更多其它的免费插画。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%B1%87%E9%9B%86%E8%B6%85%E5%A4%9A%E5%85%8D%E8%B4%B9%E5%8F%AF%E5%95%86%E7%94%A8%E7%9A%84%E6%8F%92%E7%94%BB%E8%B5%84%E6%BA%90%E7%AB%99/5.jpg" alt=""></p><p>进入到详情页，<strong>点击右侧的访问网站按钮即可进入到此插画的网站，然后在该网站上下载即可</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，今天推荐一个完全免费可商用的插画素材资源站，网站上收集了超多的免费可商用插画素材，而且按照了插画支持的格式进行了分类，比如AI、EPS、Fligma、GIF、PNG、PSD、Sketch、SVG、Xd等等，同时有最
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="插画素材" scheme="http://maliquankai.com/tags/%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新产品 | 懒猫存钱 - 存钱记账有模有样</title>
+    <link href="http://maliquankai.com/2020/07/15/2020-07-15-lazycat-savemoney/"/>
+    <id>http://maliquankai.com/2020/07/15/2020-07-15-lazycat-savemoney/</id>
+    <published>2020-07-15T15:22:01.000Z</published>
+    <updated>2020-07-15T10:58:09.250Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，好久不见，自从HomeTime上线后，本计划今年不再开发新产品，因为现在的精力主要放在了视频剪辑和已有产品的维护上，但三个月前老婆怀孕了，以前花钱大手大脚，现在要为即将到来的宝宝做打算了，近期有了存钱的计划，所以就有了现在的懒猫存钱。</p></blockquote><h3 id="懒猫存钱的产品来源"><a href="#懒猫存钱的产品来源" class="headerlink" title="懒猫存钱的产品来源"></a>懒猫存钱的产品来源</h3><p>老婆怀孕，打算开始存奶粉钱，所以就想着<strong>开发一款简单的存钱类App</strong>，简单的构思之后很快纳入了我的开发计划，7月初每个晚上开始写新产品，<strong>白天依旧大部分时间放在了视频剪辑上</strong>，存钱功能基本写完的时候想到了记账功能，<strong>因为存钱和记账是相辅相成的，有的人存钱就是从记账开始，所以顺便把记账功能也做上了</strong>。</p><p>生活中很多人都想过存钱和记账，<strong>有时候记账的目的是为了存钱，存钱的目的是为了更好地生活和享受人生，但你是否能为自己的存钱目标或计划而坚持下去</strong>。</p><p><strong>懒猫存钱内置6种存钱模式帮你更有计划的存钱，同时还精心设计了超有爱的记账模式</strong>，从此存钱、记账两不误。</p><h3 id="懒猫存钱有哪些具体的功能？"><a href="#懒猫存钱有哪些具体的功能？" class="headerlink" title="懒猫存钱有哪些具体的功能？"></a>懒猫存钱有哪些具体的功能？</h3><p><strong>懒猫存钱支持6种存钱模式</strong>，比如：</p><ul><li>365天存钱法</li><li>52周存钱法</li><li>12存单</li><li>定额存钱法</li><li>自由存钱法</li><li>弹性存钱法</li></ul><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/1_%E5%AD%98%E9%92%B1%E6%A8%A1%E5%BC%8F.png" alt=""></p><p><strong>根据自己的存钱需求自由选择，自动计算每天要存入的金额，让你更有计划的坚持存钱</strong>。</p><p><strong>记账模式：内置9个账本，支出、收入、账本、分类自由定义</strong>，快速记账和查看每天的记账信息。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/2_%E8%AE%B0%E8%B4%A6%E6%A8%A1%E5%BC%8F.png" alt=""></p><p>记账统计：按周/月/年，<strong>折线图 / 柱状图 一目了然查看近期的记账数据</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/3_%E8%AE%B0%E8%B4%A6%E7%BB%9F%E8%AE%A1.png" alt=""></p><p>记账详情：当前记账信息置顶，<strong>自动查询当天所有的记账数据</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/4_%E8%AE%B0%E8%B4%A6%E8%AF%A6%E6%83%85.png" alt=""></p><p>账本/分类管理：可修改内置账本，<strong>可自定义添加账本</strong>，可修改支出、收入的分类，<strong>可自定义添加支出、收入的分类</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/5_%E8%87%AA%E5%AE%9A%E4%B9%89%E8%B4%A6%E6%9C%AC-%E5%88%86%E7%B1%BB.png" alt=""></p><p>货币单位：<strong>支持10种常见的货币单位，自由切换自动计算</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/6_%E8%B4%A7%E5%B8%81%E8%BD%AC%E6%8D%A2.png" alt=""></p><p>自定义底部栏：<strong>存钱、记账底部栏可互换位置</strong>。</p><p>隐私保护：<strong>密码锁定，保护你的私密存钱/记账数据</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%96%B0%E4%BA%A7%E5%93%81%20%7C%20%E6%87%92%E7%8C%AB%E5%AD%98%E9%92%B1%20-%20%E5%AD%98%E9%92%B1%E8%AE%B0%E8%B4%A6%E6%9C%89%E6%A8%A1%E6%9C%89%E6%A0%B7/7_%E5%AF%86%E7%A0%81%E9%94%81%E5%AE%9A.png" alt=""></p><p>懒猫存钱使用简洁的设计和功能，让存钱和记账变得从未如此简单，历时将近15个晚上的时间第一个版本1.0上线，<strong>可能会存在一些小Bug，后续的版本迭代都会一一解决更加完善，希望得到你的支持</strong>。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，好久不见，自从HomeTime上线后，本计划今年不再开发新产品，因为现在的精力主要放在了视频剪辑和已有产品的维护上，但三个月前老婆怀孕了，以前花钱大手大脚，现在要为即将到来的宝宝做打算了，近期有了存钱的计划，所以就
+      
+    
+    </summary>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="码力全开" scheme="http://maliquankai.com/tags/%E7%A0%81%E5%8A%9B%E5%85%A8%E5%BC%80/"/>
+    
+      <category term="个人作品" scheme="http://maliquankai.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个完全免费的手绘矢量插画资源</title>
+    <link href="http://maliquankai.com/2020/07/08/2020-07-08-free-illustraions/"/>
+    <id>http://maliquankai.com/2020/07/08/2020-07-08-free-illustraions/</id>
+    <published>2020-07-08T15:22:01.000Z</published>
+    <updated>2020-07-07T19:10:36.787Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，近期发现了一个完全免费可商用的手绘矢量插画资源 - Sketchvalley，网站上提供了52个插画素材，设计中的每个元素都是一个单独的矢量层，可以自由编辑，下载格式支持PNG、SVG、AI。</p></blockquote><h3 id="Sketchvalley"><a href="#Sketchvalley" class="headerlink" title="Sketchvalley"></a><a href="https://sketchvalley.com" target="_blank" rel="noopener">Sketchvalley</a></h3><p>网址：<a href="https://sketchvalley.com" target="_blank" rel="noopener">https://sketchvalley.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9%E7%9A%84%E6%89%8B%E7%BB%98%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E8%B5%84%E6%BA%90/1.jpg" alt=""></p><p>打开网站，可以看到插画网站有三个分类，分别是<strong>舞蹈、扁平化、插图的分类</strong>，点开对应的分类可快速找到对应的插画资源。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9%E7%9A%84%E6%89%8B%E7%BB%98%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E8%B5%84%E6%BA%90/2.jpg" alt=""></p><p>比如，我们先来看一下插画风格的素材类型，<strong>鼠标移动到对应的插图上会自动显示目前该插画素材的场景名称</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9%E7%9A%84%E6%89%8B%E7%BB%98%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E8%B5%84%E6%BA%90/3.jpg" alt=""></p><p>然后，我们再来看一下扁平化风格的素材类型，这些风格的插图质量都还不错。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9%E7%9A%84%E6%89%8B%E7%BB%98%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E8%B5%84%E6%BA%90/4.jpg" alt=""></p><p>点击任意一个插画素材，即可进入大图模式，<strong>左下角提供了下载入口，同时下载格式支持PNG、SVG、AI</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9%E7%9A%84%E6%89%8B%E7%BB%98%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E8%B5%84%E6%BA%90/7.jpg" alt=""></p><p>接下来，再展示一些<strong>舞蹈、家庭为主的相关元素插画，设计中的每个元素都是一个单独的矢量层，可以自由编辑</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9%E7%9A%84%E6%89%8B%E7%BB%98%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E8%B5%84%E6%BA%90/5.jpg" alt=""></p><p>最后，<strong>网站上的所有插画资源都是可以免费下载，而且该插画资源已获得CC0许可，可以免费用于商业和个人用途</strong>。</p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E4%B8%80%E4%B8%AA%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9%E7%9A%84%E6%89%8B%E7%BB%98%E7%9F%A2%E9%87%8F%E6%8F%92%E7%94%BB%E8%B5%84%E6%BA%90/6.jpg" alt=""></p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，近期发现了一个完全免费可商用的手绘矢量插画资源 - Sketchvalley，网站上提供了52个插画素材，设计中的每个元素都是一个单独的矢量层，可以自由编辑，下载格式支持PNG、SVG、AI。&lt;/p&gt;
+&lt;/bloc
+      
+    
+    </summary>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/categories/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="插画素材" scheme="http://maliquankai.com/tags/%E6%8F%92%E7%94%BB%E7%B4%A0%E6%9D%90/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推荐几个为黑白照片快速上色的工具</title>
+    <link href="http://maliquankai.com/2020/07/04/2020-07-04-black-white/"/>
+    <id>http://maliquankai.com/2020/07/04/2020-07-04-black-white/</id>
+    <published>2020-07-04T15:22:01.000Z</published>
+    <updated>2020-07-07T19:07:01.241Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>大家好，我是独立开发者Larry，最近又发现了一个基于AI技术在几秒钟内为黑白照片上色的工具Image Colorizer，这几年AI技术越来越普及，利用AI技术手段实现的效率工具也越来越多，所以今天汇总一下几个为黑白照片快速上色的工具。</p></blockquote><h3 id="Image-Colorizer"><a href="#Image-Colorizer" class="headerlink" title="Image Colorizer"></a><a href="https://imagecolorizer.com" target="_blank" rel="noopener">Image Colorizer</a></h3><p>网址：<a href="https://imagecolorizer.com" target="_blank" rel="noopener">https://imagecolorizer.com</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E5%87%A0%E4%B8%AA%E4%B8%BA%E9%BB%91%E7%99%BD%E7%85%A7%E7%89%87%E5%BF%AB%E9%80%9F%E4%B8%8A%E8%89%B2%E7%9A%84%E5%B7%A5%E5%85%B7/1.jpg" alt=""></p><p><strong>一个基于AI技术在几秒钟内为黑白照片上色的工具Image Colorizer</strong>，上传的照片必须小于4M，分辨率3000x3000，支持jpg、jpeg、png格式，<strong>Image Colorizer处理后的效果颜色更为鲜艳</strong>。</p><h3 id="Colourise"><a href="#Colourise" class="headerlink" title="Colourise"></a><a href="https://colourise.sg" target="_blank" rel="noopener">Colourise</a></h3><p>网址：<a href="https://colourise.sg" target="_blank" rel="noopener">https://colourise.sg</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E5%87%A0%E4%B8%AA%E4%B8%BA%E9%BB%91%E7%99%BD%E7%85%A7%E7%89%87%E5%BF%AB%E9%80%9F%E4%B8%8A%E8%89%B2%E7%9A%84%E5%B7%A5%E5%85%B7/2.jpg" alt=""></p><p>一个将黑白照片智能转为彩色的网站，<strong>它是基于GAN而开发的一个给老照片着色的项目，用在人物和风景上效果还不错</strong>。</p><h3 id="Algorithmia"><a href="#Algorithmia" class="headerlink" title="Algorithmia"></a><a href="https://demos.algorithmia.com/colorize-photos" target="_blank" rel="noopener">Algorithmia</a></h3><p>网址：<a href="https://demos.algorithmia.com/colorize-photos" target="_blank" rel="noopener">https://demos.algorithmia.com/colorize-photos</a></p><p><img class="lozad" data-src="https://maliquankai.oss-cn-shenzhen.aliyuncs.com/%E5%AE%98%E7%BD%91/%E6%8E%A8%E8%8D%90%E5%87%A0%E4%B8%AA%E4%B8%BA%E9%BB%91%E7%99%BD%E7%85%A7%E7%89%87%E5%BF%AB%E9%80%9F%E4%B8%8A%E8%89%B2%E7%9A%84%E5%B7%A5%E5%85%B7/3.jpg" alt=""></p><p><strong>同样是使用AI技术给黑白照片上色的网站Algorithmia</strong>，只需要贴图片链接或直接上传本地照片即可自动对旧照片进行着色，使旧照片焕然一新，关键是Algorithmia还提供了可扩展的API供开发人员使用。</p><h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>今天的内容就是这些，欢迎关注码力全开公众号（force_code），如果你对独立开发者感兴趣，或者你对产品、设计、技术、运营有一些自己的想法，公众号后台回复<strong>『加群』</strong>识别二维码添加“码力全开机器人”，回复<strong>『加群』</strong>即可加入<strong>码力全开Friends用户群</strong>，你也可以添加我的微信lishichao706，带你进入独立开发者的聚集地。</p><ul><li><a href="https://t.me/forcecoder" target="_blank" rel="noopener">Telegram 群</a></li><li><a href="https://www.maliquankai.cn/" target="_blank" rel="noopener">码力全开大学堂</a></li><li><a href="http://maliquankai.com">码力全开工作室</a></li><li><a href="https://weibo.com/236601678" target="_blank" rel="noopener">微博</a></li><li><a href="https://www.zhihu.com/people/amin706" target="_blank" rel="noopener">知乎</a></li><li><a href="https://twitter.com/Larry_LiDev" target="_blank" rel="noopener">twitter</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;大家好，我是独立开发者Larry，最近又发现了一个基于AI技术在几秒钟内为黑白照片上色的工具Image Colorizer，这几年AI技术越来越普及，利用AI技术手段实现的效率工具也越来越多，所以今天汇总一下几个为黑白照片快速上色的工具。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="工具资源" scheme="http://maliquankai.com/categories/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+    
+      <category term="工具资源" scheme="http://maliquankai.com/tags/%E5%B7%A5%E5%85%B7%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="设计资源" scheme="http://maliquankai.com/tags/%E8%AE%BE%E8%AE%A1%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+</feed>
