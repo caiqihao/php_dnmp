@@ -35,9 +35,12 @@ services:
         TZ: "$TZ"
     container_name: php
     ports:
-      - "${PHP_HYPERF1_PORT}:9501"
-      - "${PHP_HYPERF2_PORT}:9502"
-      - "${PHP_HYPERF3_PORT}:9503"
+      - "${PHP74_SWOOLE1_PORT}:9501"
+      - "${PHP74_SWOOLE2_PORT}:9502"
+      - "${PHP74_SWOOLE3_PORT}:9503"
+      - "${PHP74_SWOOLE4_PORT}:9504"
+      - "${PHP74_SWOOLE5_PORT}:9505"
+      - "${PHP74_SWOOLE6_PORT}:9506"
     extra_hosts:
       - "www.site1.com:172.17.0.1"
     volumes:
@@ -62,12 +65,12 @@ services:
         TZ: "$TZ"
     container_name: php73
     ports:
-      - "${PHP_SWOOLE1_PORT}:9504"
-      - "${PHP_SWOOLE2_PORT}:9505"
-      - "${PHP_SWOOLE3_PORT}:9506"
-      - "${PHP_SWOOLE4_PORT}:9507"
-      - "${PHP_SWOOLE5_PORT}:9508"
-      - "${PHP_SWOOLE6_PORT}:9509"
+      - "${PHP73_SWOOLE1_PORT}:9501"
+      - "${PHP73_SWOOLE2_PORT}:9502"
+      - "${PHP73_SWOOLE3_PORT}:9503"
+      - "${PHP73_SWOOLE4_PORT}:9504"
+      - "${PHP73_SWOOLE5_PORT}:9505"
+      - "${PHP73_SWOOLE6_PORT}:9506"
 
     volumes:
       - ${SOURCE_DIR}:/www/:rw
@@ -80,49 +83,50 @@ services:
       - SYS_PTRACE
     networks:
       - default
-#  php56:
-#    build:
-#      context: ./services/php
-#      args:
-#        PHP_VERSION: php:${PHP56_VERSION}-fpm-alpine
-#        CONTAINER_PACKAGE_URL: ${CONTAINER_PACKAGE_URL}
-#        PHP_EXTENSIONS: ${PHP56_EXTENSIONS}
-#        TZ: "$TZ"
-#    container_name: php56
-#    expose:
-#      - 9501
-#    volumes:
-#      - ${SOURCE_DIR}:/www/:rw
-#      - ${PHP56_PHP_CONF_FILE}:/usr/local/etc/php/php.ini:ro
-#      - ${PHP56_FPM_CONF_FILE}:/usr/local/etc/php-fpm.d/www.conf:rw
-#      - ${PHP56_LOG_DIR}:/var/log/php
-#      - ${DATA_DIR}/composer:/tmp/composer
-#    restart: always
-#    cap_add:
-#      - SYS_PTRACE
-#    networks:
-#      - default
 
-#  php54:
-#    build:
-#      context: ./services/php54
-#      args:
-#        PHP_VERSION: php:${PHP54_VERSION}-fpm
-#        CONTAINER_PACKAGE_URL: ${CONTAINER_PACKAGE_URL}
-#        PHP_EXTENSIONS: ${PHP54_EXTENSIONS}
-#        TZ: "$TZ"
-#    container_name: php54
-#    volumes:
-#      - ${SOURCE_DIR}:/www/:rw
-#      - ${PHP54_PHP_CONF_FILE}:/usr/local/etc/php/php.ini:ro
-#      - ${PHP54_FPM_CONF_FILE}:/usr/local/etc/php-fpm.d/www.conf:rw
-#      - ${PHP54_LOG_DIR}:/var/log/php
-#      - ${DATA_DIR}/composer:/tmp/composer
-#    restart: always
-#    cap_add:
-#      - SYS_PTRACE
-#    networks:
-#      - default
+  php56:
+    build:
+      context: ./services/php
+      args:
+        PHP_VERSION: php:${PHP56_VERSION}-fpm-alpine
+        CONTAINER_PACKAGE_URL: ${CONTAINER_PACKAGE_URL}
+        PHP_EXTENSIONS: ${PHP56_EXTENSIONS}
+        TZ: "$TZ"
+    container_name: php56
+    expose:
+      - 9501
+    volumes:
+      - ${SOURCE_DIR}:/www/:rw
+      - ${PHP56_PHP_CONF_FILE}:/usr/local/etc/php/php.ini:ro
+      - ${PHP56_FPM_CONF_FILE}:/usr/local/etc/php-fpm.d/www.conf:rw
+      - ${PHP56_LOG_DIR}:/var/log/php
+      - ${DATA_DIR}/composer:/tmp/composer
+    restart: always
+    cap_add:
+      - SYS_PTRACE
+    networks:
+      - default
+
+  php54:
+    build:
+      context: ./services/php54
+      args:
+        PHP_VERSION: php:${PHP54_VERSION}-fpm
+        CONTAINER_PACKAGE_URL: ${CONTAINER_PACKAGE_URL}
+        PHP_EXTENSIONS: ${PHP54_EXTENSIONS}
+        TZ: "$TZ"
+    container_name: php54
+    volumes:
+      - ${SOURCE_DIR}:/www/:rw
+      - ${PHP54_PHP_CONF_FILE}:/usr/local/etc/php/php.ini:ro
+      - ${PHP54_FPM_CONF_FILE}:/usr/local/etc/php-fpm.d/www.conf:rw
+      - ${PHP54_LOG_DIR}:/var/log/php
+      - ${DATA_DIR}/composer:/tmp/composer
+    restart: always
+    cap_add:
+      - SYS_PTRACE
+    networks:
+      - default
 
   mysql:
     image: mysql:${MYSQL_VERSION}
@@ -139,20 +143,20 @@ services:
       MYSQL_ROOT_PASSWORD: "${MYSQL_ROOT_PASSWORD}"
       TZ: "$TZ"
 
-#  mysql5:
-#    image: mysql:${MYSQL5_VERSION}
-#    container_name: mysql5
-#    ports:
-#      - "${MYSQL5_HOST_PORT}:3306"
-#    volumes:
-#      - ${MYSQL5_CONF_FILE}:/etc/mysql/conf.d/mysql.cnf:ro
-#      - ${DATA_DIR}/mysql5:/var/lib/mysql/:rw
-#    restart: always
-#    networks:
-#      - default
-#    environment:
-#      MYSQL_ROOT_PASSWORD: "${MYSQL5_ROOT_PASSWORD}"
-#      TZ: "$TZ"
+  mysql5:
+    image: mysql:${MYSQL5_VERSION}
+    container_name: mysql5
+    ports:
+      - "${MYSQL5_HOST_PORT}:3306"
+    volumes:
+      - ${MYSQL5_CONF_FILE}:/etc/mysql/conf.d/mysql.cnf:ro
+      - ${DATA_DIR}/mysql5:/var/lib/mysql/:rw
+    restart: always
+    networks:
+      - default
+    environment:
+      MYSQL_ROOT_PASSWORD: "${MYSQL5_ROOT_PASSWORD}"
+      TZ: "$TZ"
 
 #  openresty:
 #    image:  openresty/openresty:${OPENRESTY_VERSION}
@@ -173,69 +177,69 @@ services:
 #    networks:
 #      - default
 
-#  redis:
-#    image: redis:${REDIS_VERSION}
-#    container_name: redis
-#    ports:
-        # - "${REDIS_HOST_PORT1}:6379"
-        # - "${REDIS_HOST_PORT2}:6380"
-        # - "${REDIS_HOST_PORT3}:6381"
-        # - "${REDIS_HOST_PORT4}:6382"
-        # - "${REDIS_HOST_PORT5}:6383"
-        # - "${REDIS_HOST_PORT6}:6384"
-        # - "${REDIS_HOST_PORT7}:6385"
-        # - "${REDIS_HOST_PORT8}:6386"
-        # - "${REDIS_HOST_PORT9}:6387"
-        # - "${REDIS_HOST_PORT10}:6388"
-        # - "${REDIS_HOST_PORT11}:6389"
-#    volumes:
-#      - ${REDIS_CONF_FILE}:/etc/redis.conf:ro
-#      - ${DATA_DIR}/redis:/data/:rw
-#    restart: always
-#    entrypoint: ["redis-server", "/etc/redis.conf"]
-#    environment:
-#      TZ: "$TZ"
-#    networks:
-#      - default
+  redis:
+    image: redis:${REDIS_VERSION}
+    container_name: redis
+    ports:
+          - "${REDIS_HOST_PORT1}:6379"
+          - "${REDIS_HOST_PORT2}:6380"
+          - "${REDIS_HOST_PORT3}:6381"
+          - "${REDIS_HOST_PORT4}:6382"
+          - "${REDIS_HOST_PORT5}:6383"
+          - "${REDIS_HOST_PORT6}:6384"
+          - "${REDIS_HOST_PORT7}:6385"
+          - "${REDIS_HOST_PORT8}:6386"
+          - "${REDIS_HOST_PORT9}:6387"
+          - "${REDIS_HOST_PORT10}:6388"
+          - "${REDIS_HOST_PORT11}:6389"
+    volumes:
+      - ${REDIS_CONF_FILE}:/etc/redis.conf:ro
+      - ${DATA_DIR}/redis:/data/:rw
+    restart: always
+    entrypoint: ["redis-server", "/etc/redis.conf"]
+    environment:
+      TZ: "$TZ"
+    networks:
+      - default
 
-#  memcached:
-#    image: memcached:${MEMCACHED_VERSION}
-#    container_name: memcached
-#    ports:
-#      - "${MEMCACHED_HOST_PORT}:11211"
-#    environment:
-#       MEMCACHED_CACHE_SIZE: "${MEMCACHED_CACHE_SIZE}"
-#    networks:
-#      - default
+  memcached:
+    image: memcached:${MEMCACHED_VERSION}
+    container_name: memcached
+    ports:
+      - "${MEMCACHED_HOST_PORT}:11211"
+    environment:
+        MEMCACHED_CACHE_SIZE: "${MEMCACHED_CACHE_SIZE}"
+    networks:
+      - default
 
-#  rabbitmq:
-#    image: rabbitmq:${RABBITMQ_VERSION}
-#    container_name: rabbitmq
-#    restart: always
-#    ports:
-#      - "${RABBITMQ_HOST_PORT_C}:5672"
-#      - "${RABBITMQ_HOST_PORT_S}:15672"
-#    environment:
-#       TZ: "$TZ"
-#       RABBITMQ_DEFAULT_USER: "${RABBITMQ_DEFAULT_USER}"
-#       RABBITMQ_DEFAULT_PASS: "${RABBITMQ_DEFAULT_PASS}"
-#    networks:
-#          - default
+  rabbitmq:
+    image: rabbitmq:${RABBITMQ_VERSION}
+    container_name: rabbitmq
+    restart: always
+    ports:
+      - "${RABBITMQ_HOST_PORT_C}:5672"
+      - "${RABBITMQ_HOST_PORT_S}:15672"
+    environment:
+        TZ: "$TZ"
+        RABBITMQ_DEFAULT_USER: "${RABBITMQ_DEFAULT_USER}"
+        RABBITMQ_DEFAULT_PASS: "${RABBITMQ_DEFAULT_PASS}"
+    networks:
+          - default
 
-#  phpmyadmin:
-#    image: phpmyadmin/phpmyadmin:latest
-#    container_name: phpmyadmin
-#    ports:
-#      - "${PHPMYADMIN_HOST_PORT}:80"
-#    volumes:
-#      - ${PHPMYADMIN_USER_CONF_FILE}:/etc/phpmyadmin/config.user.inc.php:ro
-#      - ${PHPMYADMIN_PHP_CONF_FILE}:/usr/local/etc/php/conf.d/php-phpmyadmin.ini:ro
-#    networks:
-#      - default
-#    environment:
-#      - PMA_HOST=mysql
-#      - PMA_PORT=3306
-#      - TZ=$TZ
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    container_name: phpmyadmin
+    ports:
+      - "${PHPMYADMIN_HOST_PORT}:80"
+    volumes:
+      - ${PHPMYADMIN_USER_CONF_FILE}:/etc/phpmyadmin/config.user.inc.php:ro
+      - ${PHPMYADMIN_PHP_CONF_FILE}:/usr/local/etc/php/conf.d/php-phpmyadmin.ini:ro
+    networks:
+      - default
+    environment:
+      - PMA_HOST=mysql
+      - PMA_PORT=3306
+      - TZ=$TZ
 
 #  phpredisadmin:
 #    image: erikdubbelboer/phpredisadmin:latest
