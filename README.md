@@ -1,6 +1,21 @@
 ### 特别说明
 
-此仓库是基于[GitHub](https://github.com/yeszao/dnmp)仓库修改而来。如涉及到侵权，请联系个人QQ，2665274677@qq.com进行删除。
+此仓库是基于[GitHub](https://github.com/yeszao/dnmp)仓库修改而来。
+
+### 仓库地址
+
+[GitHub地址](https://github.com/bruceqiq/php_dnmp)
+
+[Gitee地址](https://gitee.com/bruce_qiq/php_dnmp)
+
+### 使用说明
+
+如果你在使用的过程中发现什么问题，可以提issue。如果你的问题比较着急，需要得到快速解决，你可以添加下面的公众号，关注之后，`点击相关资源`菜单，得到仓库维护者的即使支持。
+
+![wechat_public](https://gitee.com/bruce_qiq/picture/raw/master/2021-7-26/1627297649083-wechat_public.png)
+
+
+### 文档说明
 
 DNMP（Docker + Nginx + MySQL + PHP7/5 + Redis）是一款全功能的**LNMP一键安装程序**。
 
