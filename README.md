@@ -491,7 +491,18 @@ docker0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
 ```
 
 3.接着直接php容器使用`172.0.17.1:3306`连接即可
-## License
-MIT
+
+### 8.6 如何在Redis6的版本使用.so扩展文件
+
+如果你在环境搭建的时候使用的是>=Redis6.x的版本，那么可以加载外部模块文件。加载外部扩展文件可以在Redis服务启动的时候添加，也可以在redis.conf文件中配置。
+
+找到services/redis目录下面的redis.conf文件。添加下面的配置即可。
+```redis
+################################## MODULES #####################################
+loadmodule /path/module_name.so
+```
+
+这里的module_name就是模块的名称。/path则为.so文件存储的路径，需要放在redis容器里面。可以直接放在redis.conf同级别目录。
+
 
 
