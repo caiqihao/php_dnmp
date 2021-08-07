@@ -1,7 +1,3 @@
-### 特别说明
-
-此仓库是基于[GitHub](https://github.com/yeszao/dnmp)仓库修改而来。
-
 ### 仓库地址
 
 [GitHub地址](https://github.com/bruceqiq/php_dnmp)
@@ -98,7 +94,7 @@ DNMP项目特点：
     - `docker-compose 1.7.0+`
 2. `clone`项目：
     ```
-    $ git clone https://github.com/yeszao/dnmp.git
+    $ git clone https://gitee.com/bruce_qiq/php_dnmp
     ```
 3. 如果不是`root`用户，还需将当前用户加入`docker`用户组：
     ```
@@ -441,16 +437,11 @@ Redis连接信息如下：
 
 
 ## 8 常见问题
-### 8.1 如何在PHP代码中使用curl？
-参考这个issue：[https://github.com/yeszao/dnmp/issues/91](https://github.com/yeszao/dnmp/issues/91)
 
-### 8.2 Docker使用cron定时任务 
-[Docker使用cron定时任务](https://www.awaimai.com/2615.html)
-
-### 8.3 Docker容器时间
+### 8.1 Docker容器时间
 容器时间在.env文件中配置`TZ`变量，所有支持的时区请看[时区列表·维基百科](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)或者[PHP所支持的时区列表·PHP官网](https://www.php.net/manual/zh/timezones.php)。
 
-### 8.4 如何连接MySQL和Redis服务器
+### 8.2 如何连接MySQL和Redis服务器
 这要分两种情况，
 
 第一种情况，在**PHP代码中**。
@@ -462,7 +453,7 @@ $dbh = new PDO('mysql:host=mysql;dbname=mysql', 'root', '123456');
 $redis = new Redis();
 $redis->connect('redis', 6379);
 ```
-因为容器与容器是`expose`端口联通的，而且在同一个`networks`下，所以连接的`host`参数直接用容器名称，`port`参数就是容器内部的端口。更多请参考[《docker-compose ports和expose的区别》](https://www.awaimai.com/2138.html)。
+因为容器与容器是`expose`端口联通的，而且在同一个`networks`下，所以连接的`host`参数直接用容器名称，`port`参数就是容器内部的端口。更多请参考[《docker-compose ports和expose的区别》](https://docs.docker.com/engine/reference/commandline/compose_ps/)。
 
 第二种情况，**在主机中**通过**命令行**或者**Navicat**等工具连接。主机要连接mysql和redis的话，要求容器必须经过`ports`把端口映射到主机了。以 mysql 为例，`docker-compose.yml`文件中有这样的`ports`配置：`3306:3306`，就是主机的3306和容器的3306端口形成了映射，所以我们可以这样连接：
 ```bash
