@@ -1,8 +1,6 @@
 ### 仓库地址
 
-[GitHub地址](https://github.com/bruceqiq/php_dnmp)
-
-[Gitee地址](https://gitee.com/bruce_qiq/php_dnmp)
+[GitHub地址](https://github.com/bruceqiq/php_dnmp),[Gitee地址](https://gitee.com/bruce_qiq/php_dnmp)
 
 ### 使用说明
 
