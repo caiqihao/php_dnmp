@@ -4,10 +4,6 @@
 
 ### 使用说明
 
-如果你在使用的过程中发现什么问题，可以提issue。如果你的问题比较着急，需要得到快速解决，你可以添加下面的公众号，关注之后，`点击相关资源`菜单，得到仓库维护者的即使支持。
-
-![wechat_public](https://gitee.com/bruce_qiq/picture/raw/master/2021-7-26/1627297649083-wechat_public.png)
-
 
 ### 文档说明
 
